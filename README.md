@@ -2,7 +2,7 @@
 
 I am a Berlin-based DevOps/SRE Engineer focused on building scalable, reliable, and observable distributed systems. My background includes Kubernetes engineering, GitOps workflows, cloud-cost optimization, as well as security and compliance. 
 
-Beyond core infrastructure operations, I design platforms for large-scale workloads (such as 100M+ visual assets), implement SRE practices, and occasionally contribute to open-source projects.
+Beyond core infrastructure operations, I design platforms for large-scale workloads, implement SRE practices, and occasionally contribute to open-source projects.
 
 ---
 
@@ -10,11 +10,11 @@ Beyond core infrastructure operations, I design platforms for large-scale worklo
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Cloud & Orchestration** | GCP, Kubernetes, Helm, FluxCD, Terraform, Keda, Knative, Linkerd, Nix Shell |
+| **Cloud & Orchestration** | GCP, Kubernetes, Operators, Helm, FluxCD, Terraform, Keda |
 | **Observability** | OpenTelemetry, Jaeger, Prometheus, Victoria Metrics, ELK Stack |
-| **Data & AI Infrastructure** | PostgreSQL, MongoDB, Qdrant, ETCD, Kafka, Triton Inference Server, vLLM |
-| **Security & Networking** | Trivy, ModSecurity, IPsec/StrongSwan, Auth0, APISIX |
-| **Languages** | Golang, Python, Bash, JavaScript |
+| **Data & AI** | CloudNativePG, PostgreSQL, MongoDB, Qdrant, ETCD, Kafka, Knative Eventing, Triton Inference Server, vLLM |
+| **Security & Networking** | Trivy, ModSecurity, IPsec/StrongSwan, Auth0, APISIX, 1Password, Linkerd |
+| **Languages** | Golang, Python, JavaScript, Nix Shell, Bash |
 
 ---
 
@@ -30,3 +30,4 @@ Beyond core infrastructure operations, I design platforms for large-scale worklo
 ### 💬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/mdnfiras](https://linkedin.com/in/mdnfiras)
+- 📧 **Email:** [mdnfiras@gmail.com](email:mdnfiras@gmail.com)
