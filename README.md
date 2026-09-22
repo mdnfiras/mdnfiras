@@ -30,4 +30,4 @@ Beyond core infrastructure operations, I design platforms for large-scale worklo
 ### 💬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/mdnfiras](https://linkedin.com/in/mdnfiras)
-- 📧 **Email:** [mdnfiras@gmail.com](email:mdnfiras@gmail.com)
+- 📧 **Email:** [mdnfiras@gmail.com](mailto:mdnfiras@gmail.com)
